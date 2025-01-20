@@ -1,38 +1,38 @@
-
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.12/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.13/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.14/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.15/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.121/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.122/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.23/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.123/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.24/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.124/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.25/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.125/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.26/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.126/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.27/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.31/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.32/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.33/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.34/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.35/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.36/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.41/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.42/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.43/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.44/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.45/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.46/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.51/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.52/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.53/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.54/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.61/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.62/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.63/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.64/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.65/24
-netsh interface ipv4 add address name="イーサネット 4" addr=192.168.1.66/24
+ping -n 1 192.168.1.11
+ping -n 1 192.168.1.12
+ping -n 1 192.168.1.13
+ping -n 1 192.168.1.14
+ping -n 1 192.168.1.15
+ping -n 1 192.168.1.121
+ping -n 1 192.168.1.122
+ping -n 1 192.168.1.23
+ping -n 1 192.168.1.123
+ping -n 1 192.168.1.24
+ping -n 1 192.168.1.124
+ping -n 1 192.168.1.25
+ping -n 1 192.168.1.125
+ping -n 1 192.168.1.26
+ping -n 1 192.168.1.126
+ping -n 1 192.168.1.27
+ping -n 1 192.168.1.31
+ping -n 1 192.168.1.32
+ping -n 1 192.168.1.33
+ping -n 1 192.168.1.34
+ping -n 1 192.168.1.35
+ping -n 1 192.168.1.36
+ping -n 1 192.168.1.41
+ping -n 1 192.168.1.42
+ping -n 1 192.168.1.43
+ping -n 1 192.168.1.44
+ping -n 1 192.168.1.45
+ping -n 1 192.168.1.46
+ping -n 1 192.168.1.51
+ping -n 1 192.168.1.52
+ping -n 1 192.168.1.53
+ping -n 1 192.168.1.54
+ping -n 1 192.168.1.61
+ping -n 1 192.168.1.62
+ping -n 1 192.168.1.63
+ping -n 1 192.168.1.64
+ping -n 1 192.168.1.65
+ping -n 1 192.168.1.66
